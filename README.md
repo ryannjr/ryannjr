@@ -2,6 +2,7 @@
 
 <h3 align="center">About Me</h3>
 <ul>
+  <li>Upcoming Intern @ Computer Talk 🖥️</li>
   <li>3rd Year Student @ University of Toronto 📚</li>
   <li>Specialist in Statistics (HBSc) - Machine Learning & Data Science 📈</li>
   <li>Interest in Software Development + Data Analysis & Engineering 💼</li>
