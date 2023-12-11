@@ -5,7 +5,7 @@
   <li>Upcoming Intern @ Computer Talk 🖥️</li>
   <li>3rd Year Student @ University of Toronto 📚</li>
   <li>Specialist in Statistics (HBSc) - Machine Learning & Data Science 📈</li>
-  <li>Interest in Software Development + Data Analysis & Engineering 💼</li>
+  <li>Interest in Software Development + Data Engineering 💼</li>
 </ul>
 
 <h3 align="left">Languages</h3>
