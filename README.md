@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 
-<h3 align="center">About Me</h3>
+<h3 align="left">About Me</h3>
 <ul>
-  <li>Upcoming Intern @ Computer Talk 🖥️</li>
-  <li>3rd Year Student @ University of Toronto 📚</li>
-  <li>Specialist in Statistics (HBSc) - Machine Learning & Data Science 📈</li>
-  <li>Interest in Software Development + Data Engineering 💼</li>
+  <li>Incoming Intern <b> @ Computer Talk 🖥️</b> </li>
+  <li>3rd Year Student <b> @ University of Toronto 📚</b> </li>
+  <li>Specialist in Statistics (HBSc) - <b> Machine Learning & Data Science 📈</b> </li>
+  <li>Interest in <b>Software Development</b> + <b>Data Engineering 💼</b> </li>
 </ul>
 
 <h3 align="left">Languages</h3>
