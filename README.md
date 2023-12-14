@@ -28,7 +28,7 @@
 <h3 align = "left">Tools / Frameworks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,express,net,flask,docker,figma," />
+    <img src="https://skillicons.dev/icons?i=git,react,angular,express,net,flask,docker,figma," />
   </a>
 </p>
 
