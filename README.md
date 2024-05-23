@@ -3,7 +3,7 @@
 <h3 align="left">About Me</h3>
 <ul>
   <li>Software Developer</li>
-  <li>3rd Year Student <b> @ University of Toronto 📚</b> </li>
+  <li>4th Year Student <b> @ University of Toronto 📚</b> </li>
   <li>Specialist in Statistics (HBSc) - <b> Machine Learning & Data Science 📈</b> </li>
   <li>Interest in <b>Software Development</b> + <b>Data Engineering 💼</b> </li>
 </ul>
